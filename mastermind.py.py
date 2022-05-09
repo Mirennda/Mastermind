@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 
-##################
+#################
 # Mensuration du canvas
 
 LARGEUR = 1361
